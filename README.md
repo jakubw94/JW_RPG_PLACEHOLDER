@@ -49,7 +49,7 @@
 
 **1️⃣ Sklonuj repozytorium:**
 ```
-git clone https://github.com/jakubwprojects/JW_RPG_PLACEHOLDER.git
+git clone https://github.com/jakubw94/JW_RPG_PLACEHOLDER.git
 cd JW_RPG_PLACEHOLDER
 ```
 
